@@ -1,0 +1,8 @@
+Legal: Kai Ketelhut DBA: Fieldberry Group Nauen DEU
+SAM.gov INC-GSAFSD21742726
+EVS 39c65fa0-4342-468f-ab8a-9fa0b096d438
+GitHub https://github.com/clevjhon/fieldberry-dba
+PDF 62c1fd0b8adc878ff9210859154594299de73f2009b7999b1beaaf45046a3b9a
+TXT 16ee014bc3242fefc6c387bea44fd476c3aa78f40a7b2c2004f8ca2e14ed3643
+QR 46bb0e7064bbd6220c6da60d85f60e1e7f143472d526f9a71e920c80c22f4fce
+PUSH b716930503b08cc2bcb2b2fae9a65cdbf92d2c8e70ec7415f179cb2dae2de714 (158K 21:51)
